@@ -1,0 +1,54 @@
+﻿BRAULIO FERNANDES
+Boston, MA • brauliopf@gmail.com • 857.318.7358
+linkedin.com/in/brauliopf • github.com/brauliopf
+Senior Product Manager with background in Data Science and Business Management, backed by 9 years of leadership at startups. I have experience in driving product features through their entire creative cycle: ideation, delivery and optimization, leading product strategy and execution in collaboration with cross-functional teams.
+	PROFESSIONAL EXPERIENCE
+	Senior Product Analyst – PROVIDENCE.ORG
+	Jun 2023 – Jan 2024
+	* Enhanced visibility of user engagement for clinical decision-making app by developing a data model and Power BI dashboard tracking adoption, retention, and satisfaction metrics.
+* Analyzed application impact on provider efficiency using statistical experiments and Python-based data science tools, reporting results with descriptive and predictive statistics.
+	Product Manager  – INHERET.COM
+	Jul 2022 – Mar 2023
+	Seed-Round B2B2C SaaS connecting healthcare providers and patients
+	* Led development of a consumer product, partnering with cross-functional teams to validate customer experience.
+	Senior Product Manager: Digital Subscription  – ASSOCIAÇÃO NOVA ESCOLA
+	Oct 2017 – Mar 2019
+	Largest media platform for educators in Brazil
+	
+
+	* Led product strategy and roadmap for new online experience used to pivot from print to digital, creating a new revenue source from 10k subscribers within 6 months.
+* Restructured software development processes to adopt periodic planning and performance reviews and use better-informed requirements, increasing efficiency of team of 5 engineers by +80%
+* Formulated and tested hypotheses for improving customer engagement and funnel conversion through AB testing; increasing retention of subscribers by 25% and conversion to purchase by +60%
+* Created data pipeline and dashboard using AWS Redhift and Metabase to share key metrics of product analytics
+	Product Manager: Platform  – ENJOEI.COM.BR
+	Mar 2015 – Oct 2017
+	C2C marketplace for fashion and accessories
+	
+
+	* Collaborated with cross-functional teams to spearhead development of sale and purchase incentives that support the GMV growth by 250% YoY, as well as a significant increase in quality of customer experience; 
+* Created back-office tools to improve efficiency of the customer success team, reducing the average response time of support requests from 7 days to 1 day
+	Technical Product Manager  – VIVAREAL.COM.BR
+	Feb 2013 – Dec 2013
+	Largest real estate portal in Brazil
+	
+
+	* Spearheaded user experience changes, experimenting with A/B tests, leading to a 40% increase in final conversion
+	Founder and CTO – AINDATEM
+	Nov 2011 – Jan 2013
+	C2C marketplace for tickets to live events
+	
+
+	* Led business development and product launch from conception to $20k monthly GMV.
+	EDUCATION
+	UNIVERSITY OF MICHIGAN (Ann Arbor, MI)
+	Jul 2020 – Apr 2022
+	Master of Business Administration (MBA), May 2022
+* Awards: ZLI Spevak Scholar - Awarded to students who help advance entrepreneurship at Ross
+	AERONAUTICS INSTITUTE OF TECHNOLOGY – ITA (Sao Jose dos Campos, Brazil)
+	Jan 2007 – Dec 2011
+	Bachelor of Science in Computer Engineering
+	ADDITIONAL
+	* Languages: Portuguese (Native), English (Fluent), Spanish (Advanced)
+* Tools/Software: Python (Pandas, scikit-learn, NumPy, TensorFlow), SQL, Snowflake, dbt.
+* Certifications: MIT Applied Data Science Program (Feb/2023). AWS Machine Learning Specialty (Jan/2023)
+	September 2024

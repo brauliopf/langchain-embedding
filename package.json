@@ -1,0 +1,27 @@
+{
+  "name": "langchain-sandbox",
+  "version": "1.0.0",
+  "description": "explore langchain and build whatever I want",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack "
+  },
+  "keywords": [
+    "langchain",
+    "llm"
+  ],
+  "author": "brauliopf",
+  "license": "ISC",
+  "devDependencies": {
+    "express": "^4.21.0",
+    "webpack": "^5.94.0",
+    "webpack-cli": "^5.1.4"
+  },
+  "dependencies": {
+    "@langchain/community": "^0.3.0",
+    "@langchain/openai": "^0.3.0",
+    "@supabase/supabase-js": "^2.45.4",
+    "supabase": "^1.192.5"
+  }
+}
